@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/abhijeet21](https://linktr.ee/abhijeet21)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/abhijeetwagh](https://linktr.ee/abhijeetwagh)
 
 - 📝 I regularly write articles on [https://abhijeetblogged.wordpress.com/](https://abhijeetblogged.wordpress.com/)
 
